@@ -16,7 +16,7 @@ após fazer o upload do video na url http://localhost:8000/docs#/default/add_vid
 `pip install PyQt5`
 # Rodar projeto
 
-`python main.py`
+`python app.py`
 
 
 ## Como executar o projeto
